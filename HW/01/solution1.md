@@ -4,21 +4,21 @@
 
 ##### Telegram (10)
 
-![telegram](01 Basic course setup/telegram.jpeg)
+![telegram](01%20Basic%20course%20setup/telegram.jpeg)
 
 ##### Github (10)
 
 
-![github](01 Basic course setup/github.png)
+![github](01%20Basic%20course%20setup/github.png)
 
 ## Learning Git (20)
 
-![learnGit](02 Learning Git/progress.png)
-For more progrss screenshots go to [02 Learning Git](02 Learning Git)
+![learnGit](02%20Learning%20Git/progress.png)
+For more progrss screenshots go to [02 Learning Git](02%20Learning%20Git)
 
 ## Hooks (20)
 
-![hooks](03 Hooks/post-commit.gif)
+![hooks](03%20Hooks/post-commit.gif)
 
 ## Concepts (20)
 
